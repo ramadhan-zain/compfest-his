@@ -10,12 +10,12 @@ function Sidebar() {
         href="/"
         className="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"
       >
-        <span className="fs-4">Sidebar</span>
+        <span className="fs-4">HIS</span>
       </a>
       <hr></hr>
       <ul className="nav nav-pills flex-column mb-auto">
         <li className="nav-item">
-          <a href="#" className="nav-link active" aria-current="page">
+          <a href="/" className="nav-link active" aria-current="page">
             Home
           </a>
         </li>
@@ -25,8 +25,8 @@ function Sidebar() {
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link text-white">
-            Orders
+          <a href="/PatientList" className="nav-link text-white">
+            Patients
           </a>
         </li>
         <li>
