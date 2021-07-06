@@ -1,6 +1,6 @@
 function PatientList(){
     return(
-        <h1>Patient Lists</h1>
+        <h2>Patient Lists</h2>
     )
 }
 
